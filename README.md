@@ -12,3 +12,7 @@ Here is my [Document on Data Exploration](Data_Exploration.pdf) and here is my [
 # Regression and Classification
 
 Here is my [Regression Knit to PDF](Regression.pdf) and my [Classification Knit to PDF](Classification.pdf).
+
+# Logistic Regression and Naivie Bayes from Scratch
+
+Here is my Logistic Regression and my [Naivie Bayes](NaivieBayesfromScratch.cpp)
