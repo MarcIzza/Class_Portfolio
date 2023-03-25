@@ -19,4 +19,4 @@ Here is my [C++ ML Aglorithims from Scratch Code](C++_Alg_From_Scratch.cpp) and 
 
 #Similarity and Ensemble
 
-Here is [Similarity and Ensemble Part 5 - Narrative Document](Similarity and Ensemble - Part 5.pdf).
+Here is [Similarity and Ensemble Part 5 - Narrative Document](Similarity_and_Ensemble-Part_5.pdf).
