@@ -15,4 +15,4 @@ Here is my [Regression Knit to PDF](Regression.pdf) and my [Classification Knit 
 
 # Logistic Regression and Naivie Bayes from Scratch
 
-Here is my [C++ ML Aglorithims from Scratch Code](C++_Alg_From_Scratch.cpp) and my [Overview Document]().
+Here is my [C++ ML Aglorithims from Scratch Code](C++_Alg_From_Scratch.cpp) and my [Overview Document](C++MLAlgorithmsFromScratch.pdf).
