@@ -17,10 +17,10 @@ Here is my [Regression Knit to PDF](Regression.pdf) and my [Classification Knit 
 
 Here is my [C++ ML Aglorithims from Scratch Code](C++_Alg_From_Scratch.cpp) and my [Overview Document](C++MLAlgorithmsFromScratch.pdf).
 
-#Similarity and Ensemble
+# Similarity and Ensemble
 
 Here is [Similarity and Ensemble Part 5 - Narrative Document](Similarity_and_Ensemble-Part_5.pdf).
 
-#Machine Leanring with SKlearn
+# Machine Leanring with SKlearn
 
-Here is my [Machine Learning with SKlearn](MachineLeanringWithSklearn.ipynb) file.
+Here is my [Machine Learning with SKlearn](Machine_Leanrning_with_SKlearn.pdf) document.
