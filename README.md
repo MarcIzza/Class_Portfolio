@@ -24,3 +24,7 @@ Here is [Similarity and Ensemble Part 5 - Narrative Document](Similarity_and_Ens
 # Machine Leanring with SKlearn
 
 Here is my [Machine Learning with SKlearn](Machine_Leanrning_with_SKlearn.pdf) document.
+
+# Image Classification with Deep Learning
+
+Here is my [Image Classification with Deep Learning](Image_Classification_with_DL.pdf) document.
