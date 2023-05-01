@@ -20,7 +20,7 @@ Marcela's class portfolio for CS 4375.004, Introduction to Machine Learning. Thi
 
 * **Regression and Classification**
    
-   Here is my [Regression Knit to PDF](Regression.pdf) and my [Classification Knit to PDF](Classification.pdf).
+   [Regression Knit to PDF](Regression.pdf) and [Classification Knit to PDF](Classification.pdf) show machine learning using linear models with Regression and Classification respectively. There is a mdeium-sized data set used forboth of these models and data exploration as well as data cleaning is performed in an effort in imporove the results. The tail of the document includes an overview of the strengths and weaknessess of linear models for regression and classification. 
 
 
 * **Logistic Regression and Naivie Bayes from Scratch**
@@ -33,14 +33,14 @@ Marcela's class portfolio for CS 4375.004, Introduction to Machine Learning. Thi
     Here is [Similarity and Ensemble Part 5 - Narrative Document](Similarity_and_Ensemble-Part_5.pdf).
 
 
-* **Machine Leanring with SKlearn**
+* **Machine Learning with SKlearn**
     
     Here is my [Machine Learning with SKlearn](Machine_Leanrning_with_SKlearn.pdf) document.
 
 
 * **Image Classification with Deep Learning**
    
-   Here is my [Image Classification with Deep Learning](Image_Classification_with_DL.pdf) document.
+   [Image Classification with Deep Learning](Image_Classification_with_DL.pdf) document descibes creating an image classification algroithim for a dataset of Lions and Cheetas. There are mutiple Classifications models used, such as a sequential model and CNN model, in an effort to improve upon accuracy and get the best results, The end of the document overviews the performace of the different models on the dataset and which perofrmed better.
 
 # Summary and Reflection
 
