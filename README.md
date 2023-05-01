@@ -25,17 +25,17 @@ Marcela's class portfolio for CS 4375.004, Introduction to Machine Learning. Thi
 
 * **Logistic Regression and Naivie Bayes from Scratch**
     
-    Here is my [C++ ML Aglorithims from Scratch Code](C++_Alg_From_Scratch.cpp) and my [Overview Document](C++MLAlgorithmsFromScratch.pdf).
+    [C++ ML Aglorithims from Scratch Code](C++_Alg_From_Scratch.cpp) and [Overview Document](C++MLAlgorithmsFromScratch.pdf) go over creating a machine learning algorithim from scratch using C++ on a dataset containing information about Titanic passangers and their survival. Two algorithims were created, one for Logistic Regression and one for Naivie Bayes, and functions were created for both of them so that they may run as if they were in R. The overview document goes over the results of the algorithims.
 
 
 * **Similarity and Ensemble**
     
-    Here is [Similarity and Ensemble Part 5 - Narrative Document](Similarity_and_Ensemble-Part_5.pdf).
+    [Similarity and Ensemble Part 5 - Narrative Document](Similarity_and_Ensemble-Part_5.pdf) as a part of a group assignment disucssing how KNN and Deicison trees work for classification and regression, how Kmeans, Heirarchical, and model-based clsutering work, and how PCA and LDA work. This Narrtive Document was a part of a larger group assignment in which I took the role of manager and creator of the narrative document.
 
 
 * **Machine Learning with SKlearn**
     
-    Here is my [Machine Learning with SKlearn](Machine_Leanrning_with_SKlearn.pdf) document.
+    [Machine Learning with SKlearn](Machine_Leanrning_with_SKlearn.pdf) document shows machine learning with SKlearn performed on a small dataset containing the details of cars. Data exploration (code and graphs), Logistic Regression, Decision Trees, and Neural Networks are performed on the dataset with an analysis of which algorithim performed best at the bottom of the document. 
 
 
 * **Image Classification with Deep Learning**
