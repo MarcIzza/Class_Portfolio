@@ -10,12 +10,12 @@ Marcela's class portfolio for CS 4375.004, Introduction to Machine Learning. Thi
 
 * **Overview of Machine Learning**
 
-     Here is my [Overview of Machine Learning](OverviewOfMachineLearning.pdf) document
+     [Overview of Machine Learning](OverviewOfMachineLearning.pdf) document that detials a breif Overview of Machine Learning such as the relationship between AI and Machine Learning, definitions of key machine learning terms, and more. Writing this document helped me familizarize myself with the broader aspects of Machine Learning and help prepare me for the topics to come.  
 
 
 * **Data Exploration**
     
-    Here is my [Document on Data Exploration](Data_Exploration.pdf) and here is my [Data Exploration Code](DataExploration.cpp)
+    [Document on Data Exploration](Data_Exploration.pdf) and [Data Exploration Code](DataExploration.cpp). These materials overview data exploration of a csv file dataset in C++. A range of functions were created to mimic basic built in data exploration functions found in R to force a better understanding of what they do. The document also detials some information regarding statistical measures and how they are useful in Machine Learning.
 
 
 * **Regression and Classification**
