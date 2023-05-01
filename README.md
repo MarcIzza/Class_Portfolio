@@ -3,7 +3,7 @@ Marcela's class portfolio for CS 4375.004, Introduction to Machine Learning. Thi
 
 # Resume
 
-* [Portifolio Resume.pdf](https://github.com/MarcIzza/Class_Portfolio/files/11363340/Portifolio.Resume.pdf)
+* [Portifolio Resume.pdf](Portifolio_Resume.pdf)
 
 
 # Projects and Class Dliverables
