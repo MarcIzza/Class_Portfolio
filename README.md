@@ -45,7 +45,9 @@ Marcela's class portfolio for CS 4375.004, Introduction to Machine Learning. Thi
 # Summary and Reflection
 
 When looking back on all that I learned over the course of the semester, I feel that I learned a great deal about Machine Learning and learned countless valuable skills. I had always found Machine Learning deeply interesting but did not act on my interest until last Summer when I had begun working with bots during an internship. This, paired with the increasing publicity coming from ChatGPT pushed me to finally learn more about Machine Learning and all it can do. 
+
 I know the skills I have gained from this class will continue to aid me in the future as I want to go into a software sector that will allow me to utilize and improve my skills in machine learning. However, I have not narrowed myself down to a specific sector yet, so I am unsure whether my interest would lead me to a more data analytical job or something different. What I do know for certain is that I have to keep my interest in Machine Learning active as the field is rapidly evolving and new discoveries are happening every day. I hope a steady interest in this field will keep me from falling too far behind this field even when not directly performing work in it. 
+
 When it comes to future personal projects, I currently have no plans to create a machine learning project as I will be very busy for the next few months, but I will be looking into text classifiers and may be able to put that knowledge to a project eventually.
 
 
